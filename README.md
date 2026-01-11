@@ -1,2 +1,2 @@
-# jabhascirpt
-repo of js
+# JAVA
+repo of java
